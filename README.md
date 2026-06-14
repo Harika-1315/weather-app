@@ -57,10 +57,6 @@ Through this project, I learned:
 * Version control using Git and GitHub
 * Deploying React applications
 
-## 📷 Screenshots
-
-Add your application screenshots here.
-
 ## 🔮 Future Enhancements
 
 * 5-Day Weather Forecast
